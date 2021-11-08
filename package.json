@@ -1,0 +1,14 @@
+{
+  "name": "reptile-heyuan-rxpress-license-annual-report-information-inquiry",
+  "version": "1.0.0",
+  "description": "Reptile Heyuan Express License and Annual Report Information Inquiry",
+  "main": "index.js",
+  "author": {
+    "name": "jeker-zeng"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
