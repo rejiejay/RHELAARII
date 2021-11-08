@@ -7,8 +7,11 @@
     "name": "jeker-zeng"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.mjs"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "superagent": "^6.1.0"
+  },
   "devDependencies": {}
 }
