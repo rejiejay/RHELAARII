@@ -1,5 +1,5 @@
 import request from "superagent";
-import request from "./utils/files-helper.mjs";
+import FilesHelper from "./utils/files-helper.mjs";
 import cheerio from "cheerio";
 
 request
